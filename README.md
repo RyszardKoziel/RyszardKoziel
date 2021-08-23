@@ -3,7 +3,7 @@
 - 🌟 I love ...Spending time with my wife and our cat, analog and digital photography, film, hiking, cooking, and baking
 - 🌱 I’m currently learning ...IO Psychology at Saint Louis University
 - 💞️ I’m looking to collaborate on ...IO Psychology Research and hobby photography
-- 📫 How to reach me ...ryszard.koziel@SLU.edu
+- 📫 How to reach me ... ryszard.koziel@SLU.edu
 
 <!---
 RyszardKoziel/RyszardKoziel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
